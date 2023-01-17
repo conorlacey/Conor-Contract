@@ -4,9 +4,9 @@ date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
   weekonemonday: "2023-01-09"
-  thesisdeadline: "2023-01-10"
-  springbreak: "2023-01-10"
-  name: John Tukey
+  thesisdeadline: "2023-04-21"
+  springbreak: "2023-03-06"
+  name: Conor Lacey
   labs: 11
   portfolios: 10
   grade:
@@ -174,8 +174,6 @@ I, `r params$name`, agree to :
 
 
 ## SCHEDULE
-
-Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
 
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by `r advdate(dayone, 1, assignment = params$startweek)`

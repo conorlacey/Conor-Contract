@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 15 2023
+January 17 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -26,9 +26,6 @@ I, Conor Lacey, agree to :
     pieces. 10 minutes total in length.
 
 ## SCHEDULE
-
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
 
 - [ ] Module 01, 01/09 - 01/15 : What is Data Science and Meet the
   Toolkit
