@@ -1,3 +1,3 @@
 # Read Me
 
-This readme is for the contract template.
+This is Conor Lacey's contract for DS4P.
