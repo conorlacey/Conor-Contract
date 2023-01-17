@@ -176,44 +176,44 @@ I, `r params$name`, agree to :
 ## SCHEDULE
 
 - [ ] `r advdate(dayone, 1, topic)`
-  - Finish Lab 1 by `r advdate(dayone, 1, assignment = tsun)`
+  - Finish Lab 1 by `r advdate(dayone, 1, assignment = "sun")`
 - [ ] `r advdate(dayone, 2, topic)`
-  - Finish Lab 2 by `r advdate(dayone, 2, assignment= tsun)`
-  - Propose your contract to Mason by `r advdate(dayone, 2, assignment=tsun)`
+  - Finish Lab 2 by `r advdate(dayone, 2, assignment= "sun")`
+  - Propose your contract to Mason by `r advdate(dayone, 2, assignment="sun")`
 - [ ]  `r advdate(dayone, 3, topic)`
-  - Finish Lab 3  by `r advdate(dayone, 3, assignment=tsun)`
-  - Finish portfolio piece 1 by `r advdate(dayone, 3, assignment=tsun)`
+  - Finish Lab 3  by `r advdate(dayone, 3, assignment="sun")`
+  - Finish portfolio piece 1 by `r advdate(dayone, 3, assignment="sun")`
 - [ ] `r advdate(dayone, 4, topic)`
-  - Finish Lab 4  by `r advdate(dayone, 4, assignment=tsun)`
+  - Finish Lab 4  by `r advdate(dayone, 4, assignment="sun")`
 - [ ] `r advdate(dayone, 5, topic)`
-  - Finish Lab 5  by `r advdate(dayone, 5, assignment=tsun)`
-  - Finish portfolio piece 2 by `r advdate(dayone, 5, assignment=tsun)`
+  - Finish Lab 5  by `r advdate(dayone, 5, assignment="sun")`
+  - Finish portfolio piece 2 by `r advdate(dayone, 5, assignment="sun")`
 - [ ] `r advdate(dayone, 6, topic)`
-  - Finish Lab 6 by `r advdate(dayone, 6, assignment=tsun)`
-  - Schedule a check-in with Mason by `r advdate(dayone, 6, assignment=tsun)`
+  - Finish Lab 6 by `r advdate(dayone, 6, assignment="sun")`
+  - Schedule a check-in with Mason by `r advdate(dayone, 6, assignment="sun")`
 - [ ] `r advdate(dayone, 7, topic)`
-  - Finish Lab 7 by `r advdate(dayone, 7, assignment=tsun)`
-  - Finish portfolio piece 3 by `r advdate(dayone, 7, assignment=tsun)`
+  - Finish Lab 7 by `r advdate(dayone, 7, assignment="sun")`
+  - Finish portfolio piece 3 by `r advdate(dayone, 7, assignment="sun")`
 - [ ] `r advdate(dayone, 8, topic)`
-  - Finish Lab 8 by `r advdate(dayone, 8, assignment=tsun)`
+  - Finish Lab 8 by `r advdate(dayone, 8, assignment="sun")`
 - [ ] `r advdate(dayone, 9, topic)`
-  - Finish Lab 9 by `r advdate(dayone, 9, assignment=tsun)`
-  - Finish portfolio piece 4 by `r advdate(dayone, 9, assignment=tsun)`
+  - Finish Lab 9 by `r advdate(dayone, 9, assignment="sun")`
+  - Finish portfolio piece 4 by `r advdate(dayone, 9, assignment="sun")`
 - [ ] `r advdate(dayone, 10, topic)`
-  - Finish Lab 10 by `r advdate(dayone, 10, assignment=tsun)`
+  - Finish Lab 10 by `r advdate(dayone, 10, assignment="sun")`
 - [ ] `r advdate(dayone, 11, topic)`
-  `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",advdate(dayone, 11, assignment=tsun))`
-  - Finish portfolio piece 5 by `r advdate(dayone, 11, assignment=tsun)`
+  `r if(params$labs>=11) paste0(" - Finish Lab 11 by ",advdate(dayone, 11, assignment="sun"))`
+  - Finish portfolio piece 5 by `r advdate(dayone, 11, assignment="sun")`
 - [ ] `r advdate(dayone, 12, topic)`
-  `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",advdate(dayone, 12, assignment=tsun))`
-  - Finish portfolio piece 6 by `r advdate(dayone, 12, assignment=tsun)`
+  `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",advdate(dayone, 12, assignment="sun"))`
+  - Finish portfolio piece 6 by `r advdate(dayone, 12, assignment="sun")`
 - [ ] `r advdate(dayone, 13, topic)`
-  `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment=tsun))`
-  - Finish portfolio pieces 7 and 8 by `r advdate(dayone, 13, assignment=tsun)`
+  `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment="sun"))`
+  - Finish portfolio pieces 7 and 8 by `r advdate(dayone, 13, assignment="sun")`
 - [ ] `r advdate(dayone, 14, topic)`
-  - Finish portfolio piece 9 by `r advdate(dayone, 14, assignment=tsun)`
+  - Finish portfolio piece 9 by `r advdate(dayone, 14, assignment="sun")`
 - [ ] `r advdate(dayone, 15, topic)`
-  - Finish portfolio piece 10 by `r advdate(dayone, 15, assignment=tsun)`
+  - Finish portfolio piece 10 by `r advdate(dayone, 15, assignment="sun")`
 - [ ] Portfolio completion and end-of-semester presentation
-  - Due on `r advdate(dayone, 15, assignment=tsun)`
+  - Due on `r advdate(dayone, 15, assignment="sun")`
 
