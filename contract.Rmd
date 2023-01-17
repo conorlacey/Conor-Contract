@@ -1,7 +1,7 @@
 ---
 title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
-output: github_document
+output: pdf_document
 params:
   weekonemonday: "2023-01-09"
   thesisdeadline: "2023-04-21"
