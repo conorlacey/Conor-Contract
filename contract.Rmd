@@ -197,8 +197,8 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r advdate(dayone, 8, assignment="sun")`
 - [ ] `r advdate(dayone, 9, topic)`
-  - Finish Lab 9 by `r advdate(dayone, 9, assignment="sun")`
-  - Finish portfolio piece 4 by `r advdate(dayone, 9, assignment="sun")`
+  - Finish Lab 9 by 03/17
+  - Finish portfolio piece 4 by 03/17
 - [ ] `r advdate(dayone, 10, topic)`
   - Finish Lab 10 by `r advdate(dayone, 10, assignment="sun")`
 - [ ] `r advdate(dayone, 11, topic)`

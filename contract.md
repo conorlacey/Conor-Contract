@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 17 2023
+March 10 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -67,8 +67,8 @@ I, Conor Lacey, agree to :
 
 - [ ] Module 09, 03/06 - 03/12 : Data and Ethics
 
-  - Finish Lab 9 by 03/12
-  - Finish portfolio piece 4 by 03/12
+  - Finish Lab 9 by 03/17
+  - Finish portfolio piece 4 by 03/17
 
 - [ ] Module 10, 03/13 - 03/19 : Fitting and interpreting models
 
