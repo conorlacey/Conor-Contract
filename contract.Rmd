@@ -203,7 +203,7 @@ I, `r params$name`, agree to :
   - Finish Lab 10 by 3/21
 - [ ] `r advdate(dayone, 11, topic)`
   `r if(params$labs>=11) paste0(" - Finish Lab 11 by ", "03/28")`
-  - Finish portfolio piece 5 by 03/28
+  - Finish portfolio piece 5 by 03/30
 - [ ] `r advdate(dayone, 12, topic)`
   `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",advdate(dayone, 12, assignment="sun"))`
   - Finish portfolio piece 6 by `r advdate(dayone, 12, assignment="sun")`
