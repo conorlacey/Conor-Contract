@@ -205,8 +205,8 @@ I, `r params$name`, agree to :
   `r if(params$labs>=11) paste0(" - Finish Lab 11 by ", "03/28")`
   - Finish portfolio piece 5 by 03/31
 - [ ] `r advdate(dayone, 12, topic)`
-  `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",advdate(dayone, 12, assignment="sun"))`
-  - Finish portfolio piece 6 by `r advdate(dayone, 12, assignment="sun")`
+  `r if(params$labs>=12) paste0(" - Finish Lab 12 by ", "04/05")`
+  - Finish portfolio piece 6 by 04/05
 - [ ] `r advdate(dayone, 13, topic)`
   `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment="sun"))`
   - Finish portfolio pieces 7 and 8 by `r advdate(dayone, 13, assignment="sun")`
