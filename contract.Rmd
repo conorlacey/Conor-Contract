@@ -203,14 +203,14 @@ I, `r params$name`, agree to :
   - Finish Lab 10 by 3/21
 - [ ] `r advdate(dayone, 11, topic)`
   `r if(params$labs>=11) paste0(" - Finish Lab 11 by ", "03/28")`
-  - Finish portfolio piece 5 by 03/31
+  - Finish portfolio piece 5 by 03/31s
 - [ ] `r advdate(dayone, 12, topic)`
   `r if(params$labs>=12) paste0(" - Finish Lab 12 by ", "04/05")`
   - Finish portfolio piece 6 by 04/06
 - [ ] `r advdate(dayone, 13, topic)`
   `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment="sun"))`
   - Finish portfolio pieces 7 and 8 by `r advdate(dayone, 13, assignment="sun")`
-- [ ] `r advdate(dayone, 14, topic)`
+- [ ] Finish Portfolio pieces by 04/14
   - Finish portfolio piece 9 by `r advdate(dayone, 14, assignment="sun")`
 - [ ] `r advdate(dayone, 15, topic)`
   - Finish portfolio piece 10 by `r advdate(dayone, 15, assignment="sun")`
