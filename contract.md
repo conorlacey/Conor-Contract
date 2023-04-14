@@ -1,6 +1,6 @@
 Grading Contract
 ================
-April 06 2023
+April 14 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -77,7 +77,7 @@ I, Conor Lacey, agree to :
 - [ ] Module 11, 03/20 - 03/26 : Prediction and overfitting
 
   - Finish Lab 11 by 03/28
-  - Finish portfolio piece 5 by 03/31
+  - Finish portfolio piece 5 by 03/31s
 
 - [ ] Module 12, 03/27 - 04/02 : Cross validation
 
@@ -85,9 +85,9 @@ I, Conor Lacey, agree to :
 
 - [ ] Module 13, 04/03 - 04/09 : Quantifying uncertainty
 
-  - Finish portfolio pieces 7 and 8 by 04/09
+  - Finish portfolio pieces 7 and 8 by 04/14
 
-- [ ] Module 14, 04/10 - 04/16 : Interactive web apps
+- [ ] Finish Portfolio pieces by 04/14
 
   - Finish portfolio piece 9 by 04/16
 
