@@ -1,6 +1,6 @@
 Grading Contract
 ================
-April 14 2023
+April 17 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -87,9 +87,9 @@ I, Conor Lacey, agree to :
 
   - Finish portfolio pieces 7 and 8 by 04/14
 
-- [ ] Finish Portfolio pieces by 04/14
+- [ ] Finish Portfolio pieces by 04/19
 
-  - Finish portfolio piece 9 by 04/16
+  - Finish portfolio piece 9 by 04/19
 
 - [ ] Module 15, 04/17 - 04/23 : Special Topics
 

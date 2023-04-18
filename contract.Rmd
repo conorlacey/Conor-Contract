@@ -210,8 +210,8 @@ I, `r params$name`, agree to :
 - [ ] `r advdate(dayone, 13, topic)`
   `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment="sun"))`
   - Finish portfolio pieces 7 and 8 by 04/14
-- [ ] Finish Portfolio pieces by 04/14
-  - Finish portfolio piece 9 by `r advdate(dayone, 14, assignment="sun")`
+- [ ] Finish Portfolio pieces by 04/19
+  - Finish portfolio piece 9 by 04/19
 - [ ] `r advdate(dayone, 15, topic)`
   - Finish portfolio piece 10 by `r advdate(dayone, 15, assignment="sun")`
 - [ ] Portfolio completion and end-of-semester presentation
