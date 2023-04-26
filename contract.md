@@ -1,6 +1,6 @@
 Grading Contract
 ================
-April 17 2023
+April 26 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -29,72 +29,41 @@ I, Conor Lacey, agree to :
 
 - [ ] Module 01, 01/09 - 01/15 : What is Data Science and Meet the
   Toolkit
-
   - Finish Lab 1 by 01/15
-
 - [ ] Module 02, 01/16 - 01/22 : Data and Visualization
-
   - Finish Lab 2 by 01/22
   - Propose your contract to Mason by 01/22
-
 - [ ] Module 03, 01/23 - 01/29 : Grammar of data wrangling
-
   - Finish Lab 3 by 01/29
   - Finish portfolio piece 1 by 01/29
-
 - [ ] Module 04, 01/30 - 02/05 : Data types and Data Transformations
-
   - Finish Lab 4 by 02/05
-
 - [ ] Module 05, 02/06 - 02/12 : Tips for effective data visualization
-
   - Finish Lab 5 by 02/12
   - Finish portfolio piece 2 by 02/12
-
 - [ ] Module 06, 02/13 - 02/19 : Scientific studies and confounding
-
   - Finish Lab 6 by 02/19
   - Schedule a check-in with Mason by 02/19
-
 - [ ] Module 07, 02/20 - 02/26 : Web scraping
-
   - Finish Lab 7 by 02/26
   - Finish portfolio piece 3 by 02/26
-
 - [ ] Module 08, 02/27 - 03/05 : Functions
-
   - Finish Lab 8 by 03/05
-
 - [ ] Module 09, 03/06 - 03/12 : Data and Ethics
-
   - Finish Lab 9 by 03/17
   - Finish portfolio piece 4 by 03/17
-
 - [ ] Module 10, 03/13 - 03/19 : Fitting and interpreting models
-
   - Finish Lab 10 by 3/21
-
-- [ ] Module 11, 03/20 - 03/26 : Prediction and overfitting
-
-  - Finish Lab 11 by 03/28
+- [ ] Module 11, 03/20 - 03/26 : Prediction and overfitting - Finish Lab
+  11 by 03/28
   - Finish portfolio piece 5 by 03/31s
-
 - [ ] Module 12, 03/27 - 04/02 : Cross validation
-
   - Finish portfolio piece 6 by 04/06
-
 - [ ] Module 13, 04/03 - 04/09 : Quantifying uncertainty
-
   - Finish portfolio pieces 7 and 8 by 04/14
-
 - [ ] Finish Portfolio pieces by 04/19
-
   - Finish portfolio piece 9 by 04/19
-
 - [ ] Module 15, 04/17 - 04/23 : Special Topics
-
-  - Finish portfolio piece 10 by 04/23
-
+  - Finish portfolio piece 10 by 4/27
 - [ ] Portfolio completion and end-of-semester presentation
-
-  - Due on 04/23
+  - Due on 4/27
